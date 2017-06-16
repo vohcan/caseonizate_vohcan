@@ -3,7 +3,7 @@
 ## Caseonizate by Vohcan
 
 Prueba técnica para realizar un desarrollo con React.
-####Para arrancar el proyecto
+#### Para arrancar el proyecto
 * `npm install` para descargar las dependencias descritas en package.json
 * `npm start` para que arranque el proyecto en localhost:3000
 
