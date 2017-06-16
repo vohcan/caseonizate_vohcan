@@ -29,3 +29,12 @@
   width: 80px;
   float: left;
 }
+.userName{
+  text-align: left;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.nickName{
+  text-align: left;
+  font-size: 1em;
+}
